@@ -1,0 +1,1 @@
+My work on the [Titanic Survival Prediction Competition](https://www.kaggle.com/c/titanic). I use various methods to predict the survival of a person on the RMS Titanic, depending on features like their name, age, socio-economic class, gender etcetera. 
